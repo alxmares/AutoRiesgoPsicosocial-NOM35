@@ -1,4 +1,4 @@
 title: Minimal theme
-logo: /assets/logo.jpg
-description: Full python app for Pyschosocial Risk Analysis.
+logo: /imags/logo.jpg
+description: Automates psychosocial risk analysis based on NOM-35, featuring an integrated survey, risk assessment, dashboard creation, and PDF report generation, all through an intuitive user interface.
 theme: jekyll-theme-minimal
